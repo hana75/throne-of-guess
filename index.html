@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Throne of Guess — a daily character puzzle from the Throne of Glass series." />
+    <title>Throne of Guess</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Source+Sans+3:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <div class="page">
+      <header class="hero">
+        <p class="eyebrow">A daily court of names</p>
+        <h1>Throne of Guess</h1>
+        <p class="rules">
+          Guess the Throne of Glass character of the day. Each guess is compared on name, kingdom, gender, species, and first book.
+          Green is exact, orange is partial, red is no match. Unlimited attempts.
+        </p>
+      </header>
+
+      <main class="panel">
+        <form id="guess-form" class="guess-form" autocomplete="off">
+          <label class="sr-only" for="guess-input">Character name</label>
+          <div class="input-wrap">
+            <input
+              id="guess-input"
+              name="guess"
+              type="text"
+              inputmode="text"
+              placeholder="Type a character name"
+              aria-autocomplete="list"
+              aria-controls="suggestions"
+              aria-describedby="error"
+            />
+            <ul id="suggestions" class="suggestions" role="listbox" hidden></ul>
+          </div>
+          <button type="submit">Validate</button>
+        </form>
+
+        <p id="error" class="error" role="status" aria-live="polite"></p>
+
+        <div class="toolbar">
+          <p id="attempts" class="attempts">Attempts: 0</p>
+          <button id="share-btn" type="button" class="ghost" disabled>Share my score</button>
+        </div>
+        <p id="share-status" class="share-status" role="status" aria-live="polite"></p>
+
+        <section id="victory" class="victory" hidden></section>
+
+        <div class="legend" aria-hidden="true">
+          <span class="swatch swatch--exact">Exact</span>
+          <span class="swatch swatch--partial">Partial</span>
+          <span class="swatch swatch--none">No match</span>
+        </div>
+
+        <section id="guess-list" class="guess-list" aria-live="polite"></section>
+      </main>
+    </div>
+
+    <script type="module" src="js/app.js"></script>
+  </body>
+</html>

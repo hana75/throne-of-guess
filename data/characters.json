@@ -1,0 +1,542 @@
+[
+  {
+    "id": "aedion-ashryver",
+    "name": "Aedion Ashryver",
+    "aliases": ["Aedion"],
+    "kingdom": ["Terrasen"],
+    "gender": "Male",
+    "species": ["Demi-Fae"],
+    "firstBook": "Heir of Fire",
+    "image": "img/characters/aedion-ashryver.png"
+  },
+  {
+    "id": "aelin-ashryver-galathynius",
+    "name": "Aelin Ashryver Galathynius",
+    "aliases": ["Celaena Sardothien", "Aelin Galathynius", "Celaena"],
+    "kingdom": ["Terrasen"],
+    "gender": "Female",
+    "species": ["Demi-Fae"],
+    "firstBook": "Throne of Glass",
+    "image": "img/characters/aelin-ashryver-galathynius.png"
+  },
+  {
+    "id": "ansel-of-briarcliff",
+    "name": "Ansel of Briarcliff",
+    "aliases": ["Ansel"],
+    "kingdom": ["Briarcliff"],
+    "gender": "Female",
+    "species": ["Human"],
+    "firstBook": "Crown of Midnight",
+    "image": "img/characters/ansel-of-briarcliff.png"
+  },
+  {
+    "id": "archer-finn",
+    "name": "Archer Finn",
+    "aliases": ["Archer"],
+    "kingdom": ["Adarlan"],
+    "gender": "Male",
+    "species": ["Human"],
+    "firstBook": "Crown of Midnight",
+    "image": "img/characters/archer-finn.png"
+  },
+  {
+    "id": "arobynn-hamel",
+    "name": "Arobynn Hamel",
+    "aliases": ["Arobynn"],
+    "kingdom": ["Adarlan"],
+    "gender": "Male",
+    "species": ["Human"],
+    "firstBook": "Throne of Glass",
+    "image": "img/characters/arobynn-hamel.png"
+  },
+  {
+    "id": "asterin-blackbeak",
+    "name": "Asterin Blackbeak",
+    "aliases": ["Asterin"],
+    "kingdom": ["Witch Kingdom"],
+    "gender": "Female",
+    "species": ["Witch"],
+    "firstBook": "Heir of Fire",
+    "image": "img/characters/asterin-blackbeak.png"
+  },
+  {
+    "id": "baba-yellowlegs",
+    "name": "Baba Yellowlegs",
+    "aliases": [],
+    "kingdom": ["Witch Kingdom"],
+    "gender": "Female",
+    "species": ["Witch"],
+    "firstBook": "Crown of Midnight",
+    "image": "img/characters/baba-yellowlegs.png"
+  },
+  {
+    "id": "borte",
+    "name": "Borte",
+    "aliases": [],
+    "kingdom": ["Southern Continent"],
+    "gender": "Female",
+    "species": ["Human"],
+    "firstBook": "Tower of Dawn",
+    "image": "img/characters/borte.png"
+  },
+  {
+    "id": "bronwen",
+    "name": "Bronwen",
+    "aliases": [],
+    "kingdom": ["Witch Kingdom"],
+    "gender": "Female",
+    "species": ["Witch"],
+    "firstBook": "Kingdom of Ash",
+    "image": "img/characters/bronwen.png"
+  },
+  {
+    "id": "cairn",
+    "name": "Cairn",
+    "aliases": [],
+    "kingdom": ["Doranelle"],
+    "gender": "Male",
+    "species": ["Fae"],
+    "firstBook": "Kingdom of Ash",
+    "image": "img/characters/cairn.png"
+  },
+  {
+    "id": "chaol-westfall",
+    "name": "Chaol Westfall",
+    "aliases": ["Chaol"],
+    "kingdom": ["Adarlan"],
+    "gender": "Male",
+    "species": ["Human"],
+    "firstBook": "Throne of Glass",
+    "image": "img/characters/chaol-westfall.png"
+  },
+  {
+    "id": "connall",
+    "name": "Connall",
+    "aliases": [],
+    "kingdom": ["Doranelle"],
+    "gender": "Male",
+    "species": ["Fae"],
+    "firstBook": "Empire of Storms",
+    "image": "img/characters/connall.png"
+  },
+  {
+    "id": "cresseida-blueblood",
+    "name": "Cresseida Blueblood",
+    "aliases": ["Cresseida"],
+    "kingdom": ["Witch Kingdom"],
+    "gender": "Female",
+    "species": ["Witch"],
+    "firstBook": "Queen of Shadows",
+    "image": "img/characters/cresseida-blueblood.png"
+  },
+  {
+    "id": "darrow",
+    "name": "Darrow",
+    "aliases": ["Lord Darrow"],
+    "kingdom": ["Terrasen"],
+    "gender": "Male",
+    "species": ["Human"],
+    "firstBook": "Queen of Shadows",
+    "image": "img/characters/darrow.png"
+  },
+  {
+    "id": "dorian-havilliard",
+    "name": "Dorian Havilliard",
+    "aliases": ["Dorian"],
+    "kingdom": ["Adarlan"],
+    "gender": "Male",
+    "species": ["Human"],
+    "firstBook": "Throne of Glass",
+    "image": "img/characters/dorian-havilliard.png"
+  },
+  {
+    "id": "duva",
+    "name": "Duva",
+    "aliases": ["Princess Duva"],
+    "kingdom": ["Southern Continent"],
+    "gender": "Female",
+    "species": ["Human", "Valg"],
+    "firstBook": "Tower of Dawn",
+    "image": "img/characters/duva.png"
+  },
+  {
+    "id": "elena-galathynius",
+    "name": "Elena Galathynius",
+    "aliases": ["Elena", "Elena Havilliard"],
+    "kingdom": ["Terrasen", "Adarlan"],
+    "gender": "Female",
+    "species": ["Human"],
+    "firstBook": "Throne of Glass",
+    "image": "img/characters/elena-galathynius.png"
+  },
+  {
+    "id": "elide-lochan",
+    "name": "Elide Lochan",
+    "aliases": ["Elide", "Elide Lochan of Perranth"],
+    "kingdom": ["Terrasen"],
+    "gender": "Female",
+    "species": ["Human"],
+    "firstBook": "Queen of Shadows",
+    "image": "img/characters/elide-lochan.png"
+  },
+  {
+    "id": "emrys",
+    "name": "Emrys",
+    "aliases": [],
+    "kingdom": ["Wendlyn"],
+    "gender": "Male",
+    "species": ["Demi-Fae"],
+    "firstBook": "Heir of Fire",
+    "image": "img/characters/emrys.png"
+  },
+  {
+    "id": "erawan",
+    "name": "Erawan",
+    "aliases": ["Duke Perrington", "Perrington"],
+    "kingdom": ["Morath", "Adarlan"],
+    "gender": "Male",
+    "species": ["Valg"],
+    "firstBook": "Throne of Glass",
+    "image": "img/characters/erawan.png"
+  },
+  {
+    "id": "evangeline",
+    "name": "Evangeline",
+    "aliases": [],
+    "kingdom": ["Terrasen"],
+    "gender": "Female",
+    "species": ["Human"],
+    "firstBook": "Queen of Shadows",
+    "image": "img/characters/evangeline.png"
+  },
+  {
+    "id": "falkan-ennar",
+    "name": "Falkan Ennar",
+    "aliases": ["Falkan"],
+    "kingdom": ["Southern Continent"],
+    "gender": "Male",
+    "species": ["Shapeshifter"],
+    "firstBook": "Tower of Dawn",
+    "image": "img/characters/falkan-ennar.png"
+  },
+  {
+    "id": "fenrys-moonbeam",
+    "name": "Fenrys Moonbeam",
+    "aliases": ["Fenrys"],
+    "kingdom": ["Doranelle", "Terrasen"],
+    "gender": "Male",
+    "species": ["Fae"],
+    "firstBook": "Queen of Shadows",
+    "image": "img/characters/fenrys-moonbeam.png"
+  },
+  {
+    "id": "galan-ashryver",
+    "name": "Galan Ashryver",
+    "aliases": ["Galan", "Prince Galan"],
+    "kingdom": ["Wendlyn"],
+    "gender": "Male",
+    "species": ["Demi-Fae"],
+    "firstBook": "Heir of Fire",
+    "image": "img/characters/galan-ashryver.png"
+  },
+  {
+    "id": "gavriel",
+    "name": "Gavriel",
+    "aliases": ["The Lion"],
+    "kingdom": ["Doranelle", "Terrasen"],
+    "gender": "Male",
+    "species": ["Fae"],
+    "firstBook": "Queen of Shadows",
+    "image": "img/characters/gavriel.png"
+  },
+  {
+    "id": "ghislaine",
+    "name": "Ghislaine",
+    "aliases": [],
+    "kingdom": ["Witch Kingdom"],
+    "gender": "Female",
+    "species": ["Witch"],
+    "firstBook": "Queen of Shadows",
+    "image": "img/characters/ghislaine.png"
+  },
+  {
+    "id": "glennis",
+    "name": "Glennis",
+    "aliases": [],
+    "kingdom": ["Witch Kingdom"],
+    "gender": "Female",
+    "species": ["Witch"],
+    "firstBook": "Kingdom of Ash",
+    "image": "img/characters/glennis.png"
+  },
+  {
+    "id": "hafiza",
+    "name": "Hafiza",
+    "aliases": ["The Healer on High"],
+    "kingdom": ["Southern Continent"],
+    "gender": "Female",
+    "species": ["Human"],
+    "firstBook": "Tower of Dawn",
+    "image": "img/characters/hafiza.png"
+  },
+  {
+    "id": "hasar",
+    "name": "Hasar",
+    "aliases": ["Princess Hasar"],
+    "kingdom": ["Southern Continent"],
+    "gender": "Female",
+    "species": ["Human"],
+    "firstBook": "Tower of Dawn",
+    "image": "img/characters/hasar.png"
+  },
+  {
+    "id": "hollin-havilliard",
+    "name": "Hollin Havilliard",
+    "aliases": ["Hollin"],
+    "kingdom": ["Adarlan"],
+    "gender": "Male",
+    "species": ["Human"],
+    "firstBook": "Crown of Midnight",
+    "image": "img/characters/hollin-havilliard.png"
+  },
+  {
+    "id": "iskra-yellowlegs",
+    "name": "Iskra Yellowlegs",
+    "aliases": ["Iskra"],
+    "kingdom": ["Witch Kingdom"],
+    "gender": "Female",
+    "species": ["Witch"],
+    "firstBook": "Queen of Shadows",
+    "image": "img/characters/iskra-yellowlegs.png"
+  },
+  {
+    "id": "kaltain-rompier",
+    "name": "Kaltain Rompier",
+    "aliases": ["Kaltain"],
+    "kingdom": ["Adarlan"],
+    "gender": "Female",
+    "species": ["Human", "Valg"],
+    "firstBook": "Throne of Glass",
+    "image": "img/characters/kaltain-rompier.png"
+  },
+  {
+    "id": "kashin",
+    "name": "Kashin",
+    "aliases": ["Prince Kashin"],
+    "kingdom": ["Southern Continent"],
+    "gender": "Male",
+    "species": ["Human"],
+    "firstBook": "Tower of Dawn",
+    "image": "img/characters/kashin.png"
+  },
+  {
+    "id": "king-of-adarlan",
+    "name": "King of Adarlan",
+    "aliases": ["The King of Adarlan"],
+    "kingdom": ["Adarlan"],
+    "gender": "Male",
+    "species": ["Human", "Valg"],
+    "firstBook": "Throne of Glass",
+    "image": "img/characters/king-of-adarlan.png"
+  },
+  {
+    "id": "lorcan-salvaterre",
+    "name": "Lorcan Salvaterre",
+    "aliases": ["Lorcan"],
+    "kingdom": ["Doranelle", "Terrasen"],
+    "gender": "Male",
+    "species": ["Fae"],
+    "firstBook": "Queen of Shadows",
+    "image": "img/characters/lorcan-salvaterre.png"
+  },
+  {
+    "id": "luca",
+    "name": "Luca",
+    "aliases": [],
+    "kingdom": ["Wendlyn"],
+    "gender": "Male",
+    "species": ["Human"],
+    "firstBook": "Heir of Fire",
+    "image": "img/characters/luca.png"
+  },
+  {
+    "id": "lysandra",
+    "name": "Lysandra",
+    "aliases": [],
+    "kingdom": ["Terrasen", "Adarlan"],
+    "gender": "Female",
+    "species": ["Shapeshifter"],
+    "firstBook": "Queen of Shadows",
+    "image": "img/characters/lysandra.png"
+  },
+  {
+    "id": "maeve",
+    "name": "Maeve",
+    "aliases": ["Queen Maeve"],
+    "kingdom": ["Doranelle"],
+    "gender": "Female",
+    "species": ["Valg"],
+    "firstBook": "Heir of Fire",
+    "image": "img/characters/maeve.png"
+  },
+  {
+    "id": "manon-blackbeak",
+    "name": "Manon Blackbeak",
+    "aliases": ["Manon", "Wing Leader"],
+    "kingdom": ["Witch Kingdom"],
+    "gender": "Female",
+    "species": ["Witch"],
+    "firstBook": "Heir of Fire",
+    "image": "img/characters/manon-blackbeak.png"
+  },
+  {
+    "id": "murtaugh-allsbrook",
+    "name": "Murtaugh Allsbrook",
+    "aliases": ["Murtaugh"],
+    "kingdom": ["Terrasen"],
+    "gender": "Male",
+    "species": ["Human"],
+    "firstBook": "Queen of Shadows",
+    "image": "img/characters/murtaugh-allsbrook.png"
+  },
+  {
+    "id": "nehemia-ytger",
+    "name": "Nehemia Ytger",
+    "aliases": ["Nehemia"],
+    "kingdom": ["Eyllwe"],
+    "gender": "Female",
+    "species": ["Human"],
+    "firstBook": "Throne of Glass",
+    "image": "img/characters/nehemia-ytger.png"
+  },
+  {
+    "id": "nesryn-faliq",
+    "name": "Nesryn Faliq",
+    "aliases": ["Nesryn"],
+    "kingdom": ["Adarlan", "Southern Continent"],
+    "gender": "Female",
+    "species": ["Human"],
+    "firstBook": "Queen of Shadows",
+    "image": "img/characters/nesryn-faliq.png"
+  },
+  {
+    "id": "nox-owen",
+    "name": "Nox Owen",
+    "aliases": ["Nox"],
+    "kingdom": ["Melisande"],
+    "gender": "Male",
+    "species": ["Human"],
+    "firstBook": "Throne of Glass",
+    "image": "img/characters/nox-owen.png"
+  },
+  {
+    "id": "petrah-blueblood",
+    "name": "Petrah Blueblood",
+    "aliases": ["Petrah"],
+    "kingdom": ["Witch Kingdom"],
+    "gender": "Female",
+    "species": ["Witch"],
+    "firstBook": "Queen of Shadows",
+    "image": "img/characters/petrah-blueblood.png"
+  },
+  {
+    "id": "ren-allsbrook",
+    "name": "Ren Allsbrook",
+    "aliases": ["Ren"],
+    "kingdom": ["Terrasen"],
+    "gender": "Male",
+    "species": ["Human"],
+    "firstBook": "Queen of Shadows",
+    "image": "img/characters/ren-allsbrook.png"
+  },
+  {
+    "id": "roland-havilliard",
+    "name": "Roland Havilliard",
+    "aliases": ["Roland"],
+    "kingdom": ["Adarlan"],
+    "gender": "Male",
+    "species": ["Human"],
+    "firstBook": "Crown of Midnight",
+    "image": "img/characters/roland-havilliard.png"
+  },
+  {
+    "id": "rowan-whitethorn",
+    "name": "Rowan Whitethorn",
+    "aliases": ["Rowan Whitethorn Galathynius", "Rowan", "Prince Rowan"],
+    "kingdom": ["Doranelle", "Terrasen"],
+    "gender": "Male",
+    "species": ["Fae"],
+    "firstBook": "Heir of Fire",
+    "image": "img/characters/rowan-whitethorn.png"
+  },
+  {
+    "id": "sartaq",
+    "name": "Sartaq",
+    "aliases": ["Prince Sartaq"],
+    "kingdom": ["Southern Continent"],
+    "gender": "Male",
+    "species": ["Human"],
+    "firstBook": "Tower of Dawn",
+    "image": "img/characters/sartaq.png"
+  },
+  {
+    "id": "sorrel",
+    "name": "Sorrel",
+    "aliases": [],
+    "kingdom": ["Witch Kingdom"],
+    "gender": "Female",
+    "species": ["Witch"],
+    "firstBook": "Heir of Fire",
+    "image": "img/characters/sorrel.png"
+  },
+  {
+    "id": "sorscha",
+    "name": "Sorscha",
+    "aliases": [],
+    "kingdom": ["Adarlan"],
+    "gender": "Female",
+    "species": ["Human"],
+    "firstBook": "Crown of Midnight",
+    "image": "img/characters/sorscha.png"
+  },
+  {
+    "id": "tumelun",
+    "name": "Tumelun",
+    "aliases": ["Princess Tumelun"],
+    "kingdom": ["Southern Continent"],
+    "gender": "Female",
+    "species": ["Human"],
+    "firstBook": "Tower of Dawn",
+    "image": "img/characters/tumelun.png"
+  },
+  {
+    "id": "vaughan",
+    "name": "Vaughan",
+    "aliases": [],
+    "kingdom": ["Doranelle"],
+    "gender": "Male",
+    "species": ["Fae"],
+    "firstBook": "Queen of Shadows",
+    "image": "img/characters/vaughan.png"
+  },
+  {
+    "id": "vernon-lochan",
+    "name": "Vernon Lochan",
+    "aliases": ["Vernon"],
+    "kingdom": ["Terrasen"],
+    "gender": "Male",
+    "species": ["Human"],
+    "firstBook": "Queen of Shadows",
+    "image": "img/characters/vernon-lochan.png"
+  },
+  {
+    "id": "yrene-towers",
+    "name": "Yrene Towers",
+    "aliases": ["Yrene", "Yrene Westfall"],
+    "kingdom": ["Fenharrow", "Southern Continent"],
+    "gender": "Female",
+    "species": ["Human"],
+    "firstBook": "Throne of Glass",
+    "image": "img/characters/yrene-towers.png"
+  }
+]
